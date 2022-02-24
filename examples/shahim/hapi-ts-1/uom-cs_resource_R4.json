@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "tag": [
+      {
+        "system": "http://hl7.org/fhir/StructureDefinition/capabilitystatement-supported-system",
+        "code": "true"
+      }
+    ]
+  },
+  "resourceType": "CodeSystem",
+  "url": "http://unitsofmeasure.org",
+  "version": "1",
+  "status": "active",
+  "concept": [
+    {
+      "code": "mmol/L"
+    }
+  ]
+}
